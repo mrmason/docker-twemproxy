@@ -7,6 +7,8 @@ A tiny (<6mb) Docker image of twemproxy server (AKA nutcracker).
 
 Based on minimalistic Alpine Linux.
 
+Forked from https://github.com/malexer/docker-twemproxy to remove the debug options.
+
 
 # Reason
 
